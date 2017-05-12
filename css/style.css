@@ -12,7 +12,7 @@
 
 .hero-img {
   position: relative;
-  opacity: 1;
+  opacity: 0.75;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position:center;
@@ -25,6 +25,7 @@
 }
 
 .caption {
+  font-size: 40pt;
   position: absolute;
   top: 75%;
   left: 0;

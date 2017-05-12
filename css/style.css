@@ -92,7 +92,13 @@ li.drop_menu{
   min-width: 5em;
 }
 
+.page-title {
+  float: center;
+  font-size: 20pt;
+}
+
 p.body {
+  float: center;
   margin: auto;
   padding: 10px 10%;
   float: left;

@@ -33,7 +33,7 @@ li {
   float: center;
   list-style-type: none;
   display: flex;
-  align-items:center;
+  align-items: center;
 }
 
 li a, .drop_menu {
@@ -59,7 +59,7 @@ li.drop_menu{
   margin: 0;
   color: #0000;
   background-color: rgb(7,55,74);
-  z-index:1;
+  z-index: 1;
 }
 
 .menu_content a {
@@ -76,7 +76,7 @@ li.drop_menu{
 
 .dropped {
   display: block;
-  text-align:left;
+  text-align: left;
   margin: 0;
   padding: 2em;
   min-width: 5em;

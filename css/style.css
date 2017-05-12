@@ -13,7 +13,7 @@
 .caption {
   font-size: 40pt;
   position: absolute;
-  top: 15%;
+  top: 10%;
   left: 0;
   width: 100%;
   color: rgb(116,153,175);
@@ -44,6 +44,13 @@ li a {
   color: rgb(103,49,71);
   font-family: 'Times New Roman', sans-serif;
   text-decoration: none;
+}
+.menu_button {
+  padding: 1em 1em;
+  text-align: center;
+  font-size: 12pt;
+  background-color: rgb(131,116,175);
+  color: rgb(103,49,71);
 }
 
 li a .menu_button {

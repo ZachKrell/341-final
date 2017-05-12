@@ -45,15 +45,9 @@ li a {
   font-family: 'Times New Roman', sans-serif;
   text-decoration: none;
 }
-.menu_button {
-  padding: 1em 1em;
-  text-align: center;
-  font-size: 12pt;
-  background-color: rgb(131,116,175);
-  color: rgb(103,49,71);
-}
 
 li a .menu_button {
+  padding: 1m 1em;
   display: block;
   color: rgb(116,153,175);
 }

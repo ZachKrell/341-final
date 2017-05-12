@@ -1,16 +1,16 @@
-    header {
+ header {
   background-color: black;
   font-family: "Times New Roman", sans-serif;
   margin: 20px 15%;
   border-bottom: 2px solid rgb(103,49,71);
-    }
+ }
 
-    .logo {
+.logo {
   padding: 20% 0 0;
   margin: 5px;
     }
 
-    .hero-img {
+.hero-img {
   position: relative;
   opacity: 1;
   background-repeat: no-repeat;
@@ -23,6 +23,15 @@
   min-height:800px;
   background-image: url("img/Coolhat.jpg");
     }
+
+.caption {
+    position: absolute;
+    top: 75%;
+    left: 0;
+    width: 100%;
+    color: rgb(116,153,175);
+    text-align: center;
+}
 
     .header-title {
   text-align: center;

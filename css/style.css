@@ -41,7 +41,7 @@ li a {
   padding: 1em 1em;
   text-align: center;
   font-size: 12pt;
-  background-color: black;
+  background-color: rgb(131,116,175);
   color: rgb(103,49,71);
   font-family: 'Times New Roman', sans-serif;
   text-decoration: none;
@@ -50,7 +50,6 @@ li a {
 li a .menu_button {
   display: block;
   color: rgb(116,153,175);
-  margin: 0 40px 0;
 }
 
 li a:hover, .drop_menu:hover .menu_button{
@@ -73,7 +72,7 @@ li.drop_menu{
 }
 
 .menu_content a {
-  color: black;
+  color: rgb(7,55,74);
   padding: 12px 16px;
   text-decoration: none;
   display: block;

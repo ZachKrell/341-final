@@ -24,10 +24,10 @@ ul {
 }
 
 li {
-  float: center;
+  float: left;
   list-style-type: none;
   display: flex;
-  align-items: left;
+  align-items: center;
 }
 
 li a {

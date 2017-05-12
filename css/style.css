@@ -38,7 +38,6 @@ li {
 }
 
 li a {
-  padding: 1em 1em;
   text-align: center;
   font-size: 12pt;
   background-color: rgb(131,116,175);
@@ -48,7 +47,6 @@ li a {
 }
 
 li a .menu_button {
-  padding: 1em 1em;
   display: block;
   color: rgb(116,153,175);
 }

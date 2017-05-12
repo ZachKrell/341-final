@@ -86,7 +86,7 @@ li.drop_menu{
 
 .drop_menu:hover .menu_content:hover a {
   color: #0000;
-  background-color: rgb(7,55,74);
+  background-color: white;
 }
 
 .dropped {

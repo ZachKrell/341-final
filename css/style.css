@@ -21,29 +21,39 @@ header {
 }
 
 ul {
-  list-style-type: none;
-  margin: 0 40px;
-  min-width: 100px;
+  height: 100%;
+  position: static;
+  min-width: 50%;
+  max-width: 100%
   overflow: hidden;
   background color: rgb(103,49,71);
   padding: 0.5em 0;
 }
 
 li {
-  float: center;
+  float: left;
   list-style-type: none;
   display: flex;
   align-items: center;
 }
 
-li a, .menu_button {
+li a {
+  padding: 1em 1em;
+  text-align: center;
+  font-size: 12pt;
+  background-color: white;
+  color: rgb(103,49,71);
+  font-family: 'Times New Roman', sans-serif;
+  text-decoration: none;
+}
+
+li a .menu_button {
   display: block;
   color: rgb(255,255,255);
-  text-decoration: none;
   margin: 0 40px 0;
 }
 
-li a: hover, .drop_menu: hover, .menu_button{
+li a:hover, .drop_menu:hover .menu_button{
   background-color: rgb(7,55,74);
   color: black;
 }
@@ -72,6 +82,10 @@ li.drop_menu{
 
 .drop_menu:hover .menu_content {
   display: block;
+}
+.drop_menu:hover .menu_content:hover a {
+  color: #0000;
+  background-color: rgb(7,55,74);
 }
 
 .dropped {

@@ -92,6 +92,11 @@ li.drop_menu{
   min-width: 5em;
 }
 
+.content {
+  float:center;
+  position: absolute;
+}
+
 .page-title {
   float: center;
   font-size: 20pt;

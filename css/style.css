@@ -10,21 +10,10 @@
   margin: 5px;
 }
 
-.hero-img {
-  position: relative;
-  opacity: 0.75;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position:center;
-  background-size: cover;
-  min-height:800px;
-  background-image: url("img/Coolhat.png");
-}
-
 .caption {
   font-size: 40pt;
   position: absolute;
-  top: 75%;
+  top: 50%;
   left: 0;
   width: 100%;
   color: rgb(116,153,175);

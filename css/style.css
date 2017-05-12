@@ -108,3 +108,7 @@ p.body {
   padding: 10px 10%;
   float: left;
 }
+
+a.active {
+  background color: rgb (174,191,214);
+}

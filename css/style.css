@@ -30,7 +30,7 @@ ul {
 }
 
 li {
-  float: left;
+  float: center;
   list-style-type: none;
   display: flex;
   align-items: center;
@@ -47,9 +47,11 @@ li a {
 }
 
 li a .menu_button {
+  position: static;
   padding: 1m 1em;
   display: block;
   color: rgb(116,153,175);
+  text-decoration: none;
 }
 
 li a:hover, .drop_menu:hover .menu_button{

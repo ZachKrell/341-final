@@ -14,7 +14,7 @@
 }
 
 ul {
-  position: absolute;
+  float: center;
   height: 100%;
   position: static;
   min-width: 50%;
@@ -24,6 +24,7 @@ ul {
 }
 
 li {
+  position: absolute;
   float: left;
   list-style-type: none;
   display: flex;

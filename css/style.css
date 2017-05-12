@@ -27,7 +27,7 @@ li {
   float: center;
   list-style-type: none;
   display: flex;
-  align-items: center;
+  align-items: left;
 }
 
 li a {

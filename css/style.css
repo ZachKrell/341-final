@@ -17,7 +17,7 @@ ul {
   float: center;
   height: 100%;
   position: static;
-  min-width: 100%;
+  min-width: 50%;
   max-width: 100%;
   overflow: hidden;
   background color: rgb(103,49,71);
@@ -31,7 +31,7 @@ li {
 }
 
 li a {
-  padding: 10em 10em;
+  padding: 1em 1em;
   text-align: center;
   font-size: 12pt;
   background-color: rgb(131,116,175);

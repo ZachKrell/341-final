@@ -36,14 +36,14 @@ li {
   align-items: center;
 }
 
-li a, .drop_menu {
+li a, .menu_button {
   display: block;
   color: rgb(255,255,255);
   text-decoration: none;
   margin: 0 40px 0;
 }
 
-li a:hover, .drop_menu:hover .drop_menu{
+li a: hover, .drop_menu: hover, .menu_button{
   background-color: rgb(7,55,74);
   color: black;
 }

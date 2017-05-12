@@ -48,6 +48,7 @@ li a {
 }
 
 li a .menu_button {
+  padding: 1em 1em;
   display: block;
   color: rgb(116,153,175);
 }

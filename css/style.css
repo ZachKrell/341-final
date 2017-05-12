@@ -1,16 +1,30 @@
-header {
+    header {
   background-color: black;
   font-family: "Times New Roman", sans-serif;
   margin: 20px 15%;
   border-bottom: 2px solid rgb(103,49,71);
-}
+    }
 
-.logo {
+    .logo {
   padding: 20% 0 0;
   margin: 5px;
-}
+    }
 
-.header-title {
+    .hero-img {
+  position: relative;
+  opacity: 1;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position:center;
+  background-size: cover;
+    }
+
+    .hero-img {
+  min-height:800px;
+  background-image: url("img/Coolhat.jpg");
+    }
+
+    .header-title {
   text-align: center;
   position: fixed;
   font-size: 20pt;
@@ -20,7 +34,7 @@ header {
   letter-spacing: 2px;
 }
 
-ul {
+    ul {
   height: 100%;
   position: static;
   min-width: 50%;
@@ -28,16 +42,16 @@ ul {
   overflow: hidden;
   background color: rgb(103,49,71);
   padding: 0.5em 0;
-}
+    }
 
-li {
+    li {
   float: left;
   list-style-type: none;
   display: flex;
   align-items: center;
-}
+    }
 
-li a {
+    li a {
   padding: 1em 1em;
   text-align: center;
   font-size: 12pt;
@@ -45,24 +59,24 @@ li a {
   color: rgb(103,49,71);
   font-family: 'Times New Roman', sans-serif;
   text-decoration: none;
-}
+    }
 
-li a .menu_button {
+    li a .menu_button {
   display: block;
   color: rgb(255,255,255);
   margin: 0 40px 0;
-}
+    }
 
-li a:hover, .drop_menu:hover .menu_button{
+    li a:hover, .drop_menu:hover .menu_button{
   background-color: rgb(7,55,74);
   color: black;
-}
-
-li.drop_menu{
+    }
+  
+    li.drop_menu{
   display: inline-block;
-}
+    }
 
-.menu_content {
+    .menu_content {
   display: none;
   position: absolute;
   border: 2px solid #0000;
@@ -70,38 +84,39 @@ li.drop_menu{
   color: #0000;
   background-color: rgb(7,55,74);
   z-index: 1;
-}
+    }
 
-.menu_content a {
+    .menu_content a {
   color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
   text-align: left;
-}
+    }
 
-.drop_menu:hover .menu_content {
+    .drop_menu:hover .menu_content {
   display: block;
-}
-.drop_menu:hover .menu_content:hover a {
+    }
+
+    .drop_menu:hover .menu_content:hover a {
   color: #0000;
   background-color: rgb(7,55,74);
-}
+    }
 
-.dropped {
+    .dropped {
   display: block;
   text-align: left;
   margin: 0;
   padding: 2em;
   min-width: 5em;
-}
+    }
 
-p.body {
+    p.body {
   margin: auto;
   padding: 10px 10%;
   float: left;
-}
+    }
 
-.active {
+    .active {
   background-color: rgb(116,121,175)
-}
+    }

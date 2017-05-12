@@ -25,7 +25,6 @@ ul {
 
 li {
   float: left;
-  position: absolute;
   list-style-type: none;
   display: flex;
   align-items: center;

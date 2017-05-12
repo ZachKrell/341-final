@@ -2,7 +2,7 @@ header {
   background-color: black;
   font-family: "Times New Roman", sans-serif;
   margin: 20px 15%;
-  border-bottom:2px solid rgb(103,49,71);
+  border-bottom: 2px solid rgb(103,49,71);
 }
 
 .logo {
@@ -11,11 +11,11 @@ header {
 }
 
 .header-title {
-  text-align:center;
+  text-align: center;
   position: fixed;
   font-size: 20pt;
   color: rgb(103,49,71);
-  margin:0 0 5px;
+  margin: 0 0 5px;
   padding: 4px 0 10px;
   letter-spacing: 2px;
 }

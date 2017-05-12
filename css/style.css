@@ -60,7 +60,7 @@ li a .menu_button {
 
 li a:hover, .drop_menu:hover .menu_button{
   background-color: rgb(7,55,74);
-  color: black;
+  color: white;
 }
   
 li.drop_menu{

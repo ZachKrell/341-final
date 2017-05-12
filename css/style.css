@@ -24,7 +24,6 @@ ul {
 }
 
 li {
-  position: absolute;
   float: left;
   list-style-type: none;
   display: flex;

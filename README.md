@@ -15,7 +15,7 @@ This is my basic plan for the site, I'm sorry it doesnt look better. This is ess
 
 ---
 
-This is not my best work and I know it, I just got overwhelmed with school and other stuff, I didn't get to this assignment before it was too late, for a whileIi went through an existential crisis because I would rather turn nothing in than something bad. 
+This is not my best work and I know it, I just got overwhelmed with school and other stuff, I didn't get to this assignment before it was too late, for a while I went through an existential crisis because I would rather turn nothing in than something bad. 
 All and all I am glad I turned something in, I don't expect a good grade or even a passable one, I just want to put this out there and hopefuly get some points.
 
 ---

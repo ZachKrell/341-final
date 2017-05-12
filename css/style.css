@@ -13,7 +13,7 @@
 .caption {
   font-size: 40pt;
   position: absolute;
-  top: 50%;
+  top: 15%;
   left: 0;
   width: 100%;
   color: rgb(116,153,175);
@@ -27,7 +27,6 @@ ul {
   max-width: 100%;
   overflow: hidden;
   background color: rgb(103,49,71);
-  padding: 0.5em 0;
 }
 
 li {
